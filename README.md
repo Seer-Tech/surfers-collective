@@ -1,6 +1,6 @@
-## Surfers Collective
+### Surfers Collective
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A surfboard rental company based out of  San Francisco that facilitates the rental of surf boards to customers of all ages.
 
 ## Getting Started
 
