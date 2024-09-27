@@ -1,4 +1,4 @@
-### Surfers Collective
+# Surfers Collective
 
 A surfboard rental company based out of  San Francisco that facilitates the rental of surf boards to customers of all ages.
 
