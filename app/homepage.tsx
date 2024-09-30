@@ -6,7 +6,6 @@ import Head from 'next/head'
 
 // Logo
 import logo from '../assets/images/logo.png'
-import logoW from '../assets/images/logo.png'
 
 // Vectors
 import vector from '../assets/images/Vector_w.png'
@@ -17,7 +16,7 @@ import number3 from '../assets/images/embark/03img.png'
 import forgeCombined from '../assets/images/infoImgCombined.png'
 
 // Footer Image
-import { ChangeEvent, useEffect, useRef, useState } from 'react'
+import { useRef, useState } from 'react'
 import { useOnScreen } from './isOnScreen'
 import Link from 'next/link'
 import Footer from './footer'

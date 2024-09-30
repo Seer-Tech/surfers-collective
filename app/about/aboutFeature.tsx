@@ -43,11 +43,11 @@ export default function AboutFeature() {
                 <div className='col-xl-6'>
                   <p className={styles.servicesText} style={{textAlign:"center"}}><br/>Immerse yourself in the thrill of surfing with our premium surfboard rentals, where excitement meets ease and fun. Our boards are perfect for all skill levels, offering a safe and eco-friendly way to enjoy a fantastic day on the water!<br/><br/>
 
-Crafted for performance and comfort, our surfboards represent the best San Francisco has to offer. With their sleek design and advanced technology, you’ll feel confident riding the waves. Escape the busy city life and dive into the stunning beauty of our coastline. Whether you're aiming to catch some exhilarating waves or simply want to relax on a hidden beach, our rentals provide the perfect opportunity to enjoy the best of the Bay Area.<br/><br/>
+Crafted for performance and comfort, our surfboards represent the best San Francisco has to offer. With their sleek design and advanced technology, you’ll feel confident riding the waves. Escape the busy city life and dive into the stunning beauty of our coastline. Whether you’re aiming to catch some exhilarating waves or simply want to relax on a hidden beach, our rentals provide the perfect opportunity to enjoy the best of the Bay Area.<br/><br/>
 
 We offer rentals at top surf locations throughout San Francisco, each featuring breathtaking views, golden beaches, and a vibrant coastal atmosphere. Experience iconic spots where the waves roll in, framed by the majestic backdrop of the city.<br/><br/>
 
-A self-guided surfing adventure gives you the freedom to explore at your own pace, whether you’re a seasoned pro or a first-time surfer. With our expert tips and local knowledge, you'll be ready to make the most of your day on the water. <br/><br/></p>
+A self-guided surfing adventure gives you the freedom to explore at your own pace, whether you’re a seasoned pro or a first-time surfer. With our expert tips and local knowledge, you’ll be ready to make the most of your day on the water. <br/><br/></p>
                 </div>
               </div>
             </div>
@@ -120,11 +120,11 @@ A self-guided surfing adventure gives you the freedom to explore at your own pac
                       <h1 className={styles.servicesTitle}>Discover the extraordinary!</h1>
                       <p className={styles.servicesText}><br/>Immerse yourself in the thrill of surfing with our premium surfboard rentals, where excitement meets ease and fun. Our boards are perfect for all skill levels, offering a safe and eco-friendly way to enjoy a fantastic day on the water!<br/><br/>
 
-                      Crafted for performance and comfort, our surfboards represent the best San Francisco has to offer. With their sleek design and advanced technology, you’ll feel confident riding the waves. Escape the busy city life and dive into the stunning beauty of our coastline. Whether you're aiming to catch some exhilarating waves or simply want to relax on a hidden beach, our rentals provide the perfect opportunity to enjoy the best of the Bay Area.<br/><br/>
+                      Crafted for performance and comfort, our surfboards represent the best San Francisco has to offer. With their sleek design and advanced technology, you’ll feel confident riding the waves. Escape the busy city life and dive into the stunning beauty of our coastline. Whether you’re aiming to catch some exhilarating waves or simply want to relax on a hidden beach, our rentals provide the perfect opportunity to enjoy the best of the Bay Area.<br/><br/>
 
                       We offer rentals at top surf locations throughout San Francisco, each featuring breathtaking views, golden beaches, and a vibrant coastal atmosphere. Experience iconic spots where the waves roll in, framed by the majestic backdrop of the city.<br/><br/>
 
-                      A self-guided surfing adventure gives you the freedom to explore at your own pace, whether you’re a seasoned pro or a first-time surfer. With our expert tips and local knowledge, you'll be ready to make the most of your day on the water. <br/><br/></p>
+                      A self-guided surfing adventure gives you the freedom to explore at your own pace, whether you’re a seasoned pro or a first-time surfer. With our expert tips and local knowledge, you’ll be ready to make the most of your day on the water. <br/><br/></p>
                   </div>
                 </div>
               </div>

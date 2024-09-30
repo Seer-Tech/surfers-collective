@@ -45,7 +45,7 @@ export default function GiftFeature() {
                   <Image src={singleMobile} width={279} height={201} className={styles.sectionImage} style={{margin: "auto", display: "block", maxWidth: "90%"}} alt=""></Image>
                 </div>
                 <div className='col-xl-6 text-center'>
-                  <p className={styles.servicesText} style={{textAlign:"center"}}><br/>Treat someone special to an unforgettable surfing experience with our Solo Surfboard Rental gift card! The recipient will have the chance to ride the waves solo on a high-quality surfboard designed for stability and performance.<br/><br/>This gift card includes a complete rental package with essential safety gear and a thorough orientation, ensuring they feel confident and ready to embrace the ocean. It's the perfect gift for adventure seekers looking to explore the stunning waters of San Francisco!<br/><br/></p>
+                  <p className={styles.servicesText} style={{textAlign:"center"}}><br/>Treat someone special to an unforgettable surfing experience with our Solo Surfboard Rental gift card! The recipient will have the chance to ride the waves solo on a high-quality surfboard designed for stability and performance.<br/><br/>This gift card includes a complete rental package with essential safety gear and a thorough orientation, ensuring they feel confident and ready to embrace the ocean. It’s the perfect gift for adventure seekers looking to explore the stunning waters of San Francisco!<br/><br/></p>
                   <a data-bs-toggle="modal" data-bs-target="#bookModule" ><button type='button' className={styles.bookSectionButton} style={{width:"100%"}}>Book Now</button></a>
                 </div>
               </div>
@@ -63,7 +63,7 @@ export default function GiftFeature() {
                 </div>
                 <div className='col-xl-6 text-center'>
                   <div >
-                      <p className={styles.servicesText} style={{textAlign:"center"}}><br/>Give the gift of shared adventure with our Couples' Surfboard Rental gift card! This perfect present allows a pair to enjoy a romantic and exhilarating surfing experience.<br/><br/>The gift card includes a premium surfboard rental for two, complete with essential safety gear and a personalized orientation to ensure a fun and safe outing. It’s an ideal way for couples to bond while riding the waves of San Francisco!<br/><br/></p>
+                      <p className={styles.servicesText} style={{textAlign:"center"}}><br/>Give the gift of shared adventure with our Couples’ Surfboard Rental gift card! This perfect present allows a pair to enjoy a romantic and exhilarating surfing experience.<br/><br/>The gift card includes a premium surfboard rental for two, complete with essential safety gear and a personalized orientation to ensure a fun and safe outing. It’s an ideal way for couples to bond while riding the waves of San Francisco!<br/><br/></p>
                       <a data-bs-toggle="modal" data-bs-target="#bookModule" ><button type='button' className={styles.bookSectionButton} style={{width:"100%"}}>Book Now</button></a>
                   </div>
                 </div>
@@ -104,7 +104,7 @@ export default function GiftFeature() {
                 <div className='col-md-6'>
                   <div >
                       <h1 className={styles.servicesTitle}>Single</h1>
-                      <p className={styles.servicesText}><br/>Treat someone special to an unforgettable surfing experience with our Solo Surfboard Rental gift card! The recipient will have the chance to ride the waves solo on a high-quality surfboard designed for stability and performance.<br/><br/>This gift card includes a complete rental package with essential safety gear and a thorough orientation, ensuring they feel confident and ready to embrace the ocean. It's the perfect gift for adventure seekers looking to explore the stunning waters of San Francisco!<br/><br/></p>
+                      <p className={styles.servicesText}><br/>Treat someone special to an unforgettable surfing experience with our Solo Surfboard Rental gift card! The recipient will have the chance to ride the waves solo on a high-quality surfboard designed for stability and performance.<br/><br/>This gift card includes a complete rental package with essential safety gear and a thorough orientation, ensuring they feel confident and ready to embrace the ocean. It’s the perfect gift for adventure seekers looking to explore the stunning waters of San Francisco!<br/><br/></p>
                       <a data-bs-toggle="modal" data-bs-target="#bookModule" ><button type='button' className={styles.bookSectionButton} style={{width:"100%"}}>Book Now</button></a>
                   </div>
                 </div>
@@ -120,7 +120,7 @@ export default function GiftFeature() {
               <div className='col-md-6'>
                   <div >
                       <h1 className={styles.servicesTitle}>Couple</h1>
-                      <p className={styles.servicesText}><br/>Give the gift of shared adventure with our Couples' Surfboard Rental gift card! This perfect present allows a pair to enjoy a romantic and exhilarating surfing experience.<br/><br/>The gift card includes a premium surfboard rental for two, complete with essential safety gear and a personalized orientation to ensure a fun and safe outing. It’s an ideal way for couples to bond while riding the waves of San Francisco!<br/><br/></p>
+                      <p className={styles.servicesText}><br/>Give the gift of shared adventure with our Couples’ Surfboard Rental gift card! This perfect present allows a pair to enjoy a romantic and exhilarating surfing experience.<br/><br/>The gift card includes a premium surfboard rental for two, complete with essential safety gear and a personalized orientation to ensure a fun and safe outing. It’s an ideal way for couples to bond while riding the waves of San Francisco!<br/><br/></p>
                       <a data-bs-toggle="modal" data-bs-target="#bookModule" ><button type='button' className={styles.bookSectionButton} style={{width:"100%"}}>Book Now</button></a>
                   </div>
                 </div>
