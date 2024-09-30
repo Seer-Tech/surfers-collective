@@ -13,7 +13,7 @@ import number1 from '../assets/images/embark/01img.png'
 import number2 from '../assets/images/embark/02img.png'
 import number3 from '../assets/images/embark/03img.png'
 
-import forgeCombined from '../assets/images/infoImgCombined.png'
+// import forgeCombined from '../assets/images/infoImgCombined.png'
 
 // Footer Image
 import { useRef, useState } from 'react'
@@ -209,7 +209,7 @@ export default function HomePage() {
                 </div>
               </div>
               <div className='col-md'>
-                <Image src={forgeCombined} width={536} height={639} className={styles.forgeImage} alt='forge-combined-images'/>
+                {/* <Image src={forgeCombined} width={536} height={639} className={styles.forgeImage} alt='forge-combined-images'/> */}
               </div>
             </div>
           </div>
