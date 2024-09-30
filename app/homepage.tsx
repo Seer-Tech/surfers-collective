@@ -13,7 +13,7 @@ import number1 from '../assets/images/embark/01img.png'
 import number2 from '../assets/images/embark/02img.png'
 import number3 from '../assets/images/embark/03img.png'
 
-import forgeCombined from '../assets/images/infoImgCombined.png'
+import forgeCombined from '../assets/images/collage.png'
 
 // Footer Image
 import { useRef, useState } from 'react'
