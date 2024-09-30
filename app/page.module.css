@@ -107,6 +107,12 @@
     border: none;
     color: white;
     background: none;
+    opacity: 85%;
+  }
+
+  .viewServicesButton:hover {
+    transition: all 1s;
+    opacity: 100%;
   }
 
 /* Title Section - End */
@@ -343,6 +349,11 @@
     color: rgba(255, 255, 255, 1);
     font-weight: 400;
     opacity: 65%;
+  }
+
+  .crs:hover {
+    transition: all 1s;
+    opacity: 100%;
   }
 
   .hrl {

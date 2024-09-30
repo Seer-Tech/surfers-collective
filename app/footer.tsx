@@ -38,10 +38,10 @@ export default function Footer() {
                     <Link href='/' style={{textDecoration: 'none'}}><p className={styles.crs}>Contact Us</p></Link>
                   </div>
                   <div className='col-md py-3'>
-                    <p className={styles.cr}>Follow Us</p>
-                    <p className={styles.crs}>Facebook</p>
-                    <p className={styles.crs}>Instagram</p>
-                    <p className={styles.crs}>Twitter</p>
+                  <p className={styles.cr}>Follow Us</p>
+                  <Link href='' style={{textDecoration: 'none'}}><p className={styles.crs}>Facebook</p></Link>
+                  <Link href='' style={{textDecoration: 'none'}}> <p className={styles.crs}>Instagram</p></Link>
+                  <Link href='' style={{textDecoration: 'none'}}> <p className={styles.crs}>Twitter</p></Link>
                   </div>
                 </div>
               </div>
@@ -49,20 +49,20 @@ export default function Footer() {
             <hr className={styles.hrl}/>
             <div className='row'>
               <div className='col-md  text-center'>
-                      <p className={styles.crs}>2024 Surfers Collective. All right reserved.</p>
+                <p className={styles.crs}>2024 Surfers Collective. All right reserved.</p>
               </div>
               <div className='col-md'>
               </div>
               <div className='col-md'>
                 <div className='row  text-center'>
                   <div className='col-md'>
-                    <p className={styles.crs}><u>Privacy Policy</u></p>
+                    <Link href='' style={{textDecorationColor: 'white', color: 'white'}}><p>Privacy Policy</p></Link>
                   </div>
                   <div className='col-md'>
-                    <p className={styles.crs}><u>Terms of Service</u></p>
+                    <Link href='' style={{textDecorationColor: 'white', color: 'white'}}><p>Terms of Service</p></Link>
                   </div>
                   <div className='col-md'>
-                    <p className={styles.crs}><u>Cookies Settings</u></p>
+                    <Link href='' style={{textDecorationColor: 'white', color: 'white'}}><p>Cookie Settings</p></Link>
                   </div>
                 </div>
               </div>
