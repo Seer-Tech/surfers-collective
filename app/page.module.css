@@ -522,11 +522,14 @@
 @media screen and (max-width: 500px) {
   .background {
     background-image: url(../assets/images/mobileBg.png);
-    height: 105vh;
+    height: 100%;
+    padding-bottom: 15%;
   }
 
   .titleTitleText {
-    font-size: 55px;
+    font-size: 52px;
     line-height: 100%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
   }
 }
